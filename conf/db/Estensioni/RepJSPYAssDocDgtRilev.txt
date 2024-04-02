@@ -1,0 +1,3 @@
+<B>2024-04-02 12:14:11</B>
+<BR>Il file <B>YAssDocDgtRilev.jsp</B> è stato generato correttamente nel cartela <B>W:\PthDev\Projects\Panthera\SoftreProduzione\conf\db\Estensioni\00164\websrc\it\softre\thip\produzione\raccoltaDati</B><BR>Il file <B>YAssDocDgtRilev.jsp</B> è stato copiato nel classpath
+<BR><B>Generazione JSP è completata con successo</B><BR>

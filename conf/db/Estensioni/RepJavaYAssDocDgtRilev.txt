@@ -1,0 +1,2 @@
+<B>2024-04-02 12:14:06</B>
+<BR><B>La generazione delle classi Java è stata completata con successo.</B><BR>

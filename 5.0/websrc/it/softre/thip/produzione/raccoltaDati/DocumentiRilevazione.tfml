@@ -1,0 +1,18 @@
+<tfml>
+
+  <form name="RilevDatiPrdTSForm"
+        classHdr="RilevDatiPrdTS"
+        errorList="no"
+        menubar="no"
+        toolbar="no"
+        submitReset="none"
+        servlet="it.thera.thip.produzione.raccoltaDati.web.RilevDatiPrdTSFormActionAdapter"
+				webFormModifierClass="it.thera.thip.produzione.raccoltaDati.web.RilevDatiPrdTSWebFormModifier"
+        onLoadPresent="yes"
+        jsLibraryName="it/softre/thip/produzione/raccoltaDati/DocumentiRilevazione.js">
+
+				<textinput name="DescrizioneOperatore" classAD="DescrizioneOperatore"/>
+				<textinput name="DescrizioneMacchina" classAD="DescrizioneMacchina"/>
+  </form>
+
+</tfml>
